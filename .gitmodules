@@ -1,0 +1,3 @@
+[submodule "mothra"]
+	path = mothra
+	url = https://github.com/karmarv/mothra.git
